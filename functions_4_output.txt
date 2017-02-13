@@ -1,0 +1,9 @@
+Question: What is your name?
+Answer: Jenny
+
+Question: What is your favourite number?
+Answer: 5
+
+Question: What is your favourite color?
+Answer: pink
+

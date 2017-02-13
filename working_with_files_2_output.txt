@@ -1,0 +1,10 @@
+Hello Joel!
+
+Here are the contents of working_with_files_2_input_1.txt : 
+This is the first line of the first input file.
+And this is the second line.
+This is the last one.
+
+Here are the contents of working_with_files_2_input_2.txt : 
+Input file 2, line #1
+This file is shorter.

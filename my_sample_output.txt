@@ -1,0 +1,12 @@
+Hello Joel, here is some text from another file: 
+This is some text,
+that I'm writing into this file.
+I'm not really sure why I'm writing so few words per line.
+Maybe you know why?
+Maybe I'm weird?
+My name is Joel.
+Is your name Jenny?
+Are you my Jenny?
+If you are, then I have a message for you:
+I LOVE YOU!
+Goodbye Joel
